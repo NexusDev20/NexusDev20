@@ -5,6 +5,14 @@
 
 **`DESENVOLVEDOR JÚNIOR`**
 
+Olá! Me chamo Nexus Dev! 👋🏻
+
+Sou um Desenvolvedor Júnior apaixonado por tecnologia e pela criação de soluções eficientes. ✨
+
+Atualmente, estou focado no ecossistema Web e Mobile, utilizando tecnologias como Java, Kotlin, TypeScript e JavaScript, entre outros. ⚙️
+
+Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidades e compartilhar conhecimento com a comunidade. 👥
+
 </div>
 
 ###
