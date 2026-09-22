@@ -19,7 +19,7 @@ Estou sempre em busca de aprender novas ferramentas, aprimorar minhas habilidade
 
 <div data-importer="socials" align="center">
   <a href="https://youtube.com/@nexusdevpro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="youtube logo"  />
   </a>
 </div>
 
